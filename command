@@ -1,1 +1,1 @@
-bash <(curl -s https://raw.githubusercontent.com/makdosx/protector/install.txt) 
+bash <(curl -s https://raw.githubusercontent.com/makdosx/protector/main/install.txt) 
