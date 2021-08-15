@@ -1,0 +1,16 @@
+#!/bin/bash
+
+sudo apt install proxychains 
+sudo pip install PyQt5
+sudo mkdir /opt/protector
+sudo chmod -R 777 /opt/protector
+sudo cd /opt/protector/ && git clone https://github.com/makdosx/protector.git
+sudo cd /opt/protector/  
+sudo mv /opt/protector/protector/* /opt/protector/
+sudo rm -r /opt/protector/protector
+sudo chmod -R 777 /opt/protector
+sudo chmod -R 777 /opt/protector/ProtectorBrowser.desktop
+sudo mv ProtectorBrowser.desktop /usr/share/applications
+sudo chmod -R 777 /usr/share/applications/ProtectorBrowser.desktop
+sudo echo "Protector Browser installed with successfully."
+exit

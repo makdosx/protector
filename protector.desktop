@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=ProtectorBrowser
+Icon=/opt/protector/prot.png
+Exec=/opt/protector/main.py
+Name[en_US]=ProtectorBrowser
