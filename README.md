@@ -15,7 +15,7 @@ Open a terminal with root permissions and run this command: </br>
 bash <(curl -s https://raw.githubusercontent.com/makdosx/protector/main/install.txt)  </br></br></br>
 
 
-<h4> <font color="orange"> Notice </font> for protector browser. </h4> 
+<h4> Notice for protector browser. </h4> 
 For go to any address press enter.  </br>
 For open new tab press double left click. </h4>  </br></br></br>
 
