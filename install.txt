@@ -7,8 +7,6 @@ git clone https://github.com/makdosx/protector
 cd /opt/protector/  
 mv /opt/protector/protector/* /opt/protector/
 rm -r /opt/protector/protector
-chmod -R 777 /opt/protector
-chmod -R 777 /opt/protector/ProtectorBrowser.desktop
 mv ProtectorBrowser.desktop /usr/share/applications
 chmod -R 777 /usr/share/applications/ProtectorBrowser.desktop
 echo "Protector Browser installed with successfully."
