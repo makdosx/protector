@@ -11,6 +11,9 @@ cd /opt/protector
 chmod -R 777 /opt/protector/ProtectorBrowser.desktop 
 mv ProtectorBrowser.desktop /usr/share/applications
 chmod -R 777 /usr/share/applications/ProtectorBrowser.desktop
-chmod -R 777 /opt/protector
+cd /opt/protector
+chmod -R 777 /opt/protector/main.py
+chmod -R 777 /opt/protector/ProtectorBrowser.py
+chmod -R 777 /opt/protector/prot.png
 echo "Protector Browser installed with successfully."
 exit
