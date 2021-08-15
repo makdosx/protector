@@ -6,10 +6,10 @@
 
   
 <p align="center">
-<img src="prot.png">  </br>
+<img src="prot.png">  </br></br>
 </p>
 
- <h3 align="center"> Gnu/Linux Version </h3>
+<h3 > Gnu/Linux Version </h3>
 
 <h3> Easy Install </h3> 
 Open a terminal with root permissions and run this command: </br> 
