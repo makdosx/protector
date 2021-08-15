@@ -12,4 +12,4 @@
 
 <h3> Easy Install </h3> 
 Open a terminal with root permissions and run this command: </br> 
-bash <(curl -s https://raw.githubusercontent.com/makdosx/proxphish/main/__ROOT__/install.txt) </br></br></br>
+bash <(curl -s https://raw.githubusercontent.com/makdosx/protector/main/install.txt)  </br></br></br>
