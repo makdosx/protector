@@ -1,5 +1,8 @@
 <h1 align="center"> protector </>
 
+ <h2 align="center">
+ Gnu/Linux Version
+</h2>
 
 <h2 align="center">
  protector is anonymous browser using gateways of the onion router.
