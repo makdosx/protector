@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt install proxychains 
+pip install PyQt5
 mkdir /opt/protector
 chmod -R 777 /opt/protector
 cd /opt/protector/ 
