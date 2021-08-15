@@ -4,7 +4,8 @@ sudo apt install proxychains
 sudo pip install PyQt5
 sudo mkdir /opt/protector
 sudo chmod -R 777 /opt/protector
-sudo cd /opt/protector/ && git clone https://github.com/makdosx/protector.git
+sudo cd /opt/protector/ 
+git clone https://github.com/makdosx/protector
 sudo cd /opt/protector/  
 sudo mv /opt/protector/protector/* /opt/protector/
 sudo rm -r /opt/protector/protector
