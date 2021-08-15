@@ -17,3 +17,19 @@ bash <(curl -s https://raw.githubusercontent.com/makdosx/protector/main/install.
 <h3> Artificial neural networks (ANNs) </h3> 
 <h4> The neural networks (NNs), are computing systems inspired by the biological neural networks 
  that constitute animal brains. </h4>
+ 
+ <p align="center">
+<img src="anns1.png">  
+</p> </br>
+
+<p align="center">
+<img src="anns2.png">  
+</p> </br>
+
+ 
+ <h4> One of the most famous neural network (NNs) is The onion router. </h4>
+ 
+ <p align="center">
+<img src="anns3.png">  
+</p> </br>
+
