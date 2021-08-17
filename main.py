@@ -24,6 +24,8 @@ import sys
 import time
 
 
+os.system("python /opt/protector/change_ip.py")
+
 os.system("python /opt/protector/change_mac.py")
 
 #sys.stdout.flush()
