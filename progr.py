@@ -33,7 +33,7 @@ if __name__ == '__main__':
     label = QLabel("""
             <div align=center style=background:purple>
                   <br>  
-                 <img src=prot.png height=200 width=200> <br>
+                 <img src=/opt/protector/prot.png height=200 width=200> <br>
              <font color=white size=5>
                  Περιμένετε ώστε να γίνουν οι κατάλληλες ενέργειες <br>
                  για να ενεργοποιηθεί ο Protector Browser. <br>
