@@ -20,5 +20,15 @@
 
 
 import os
+import sys
+import time
+
+
+os.system("python /opt/protector/change_mac.py")
+
+#sys.stdout.flush()
+#time.sleep(40)
+
+os.system("python /opt/protector/progr.py")
 
 os.system("proxychains python /opt/protector/ProtectorBrowser.py")
