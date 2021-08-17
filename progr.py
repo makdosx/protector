@@ -35,20 +35,20 @@ if __name__ == '__main__':
                   <br>  
                  <img src=/opt/protector/prot.png height=200 width=200> <br>
              <font color=white size=5>
-                 Περιμένετε ώστε να γίνουν οι κατάλληλες ενέργειες <br>
-                 για να ενεργοποιηθεί ο Protector Browser. <br>
-                 Η διάρκεια είναι από 20 έως 30 δευτερόλεπτα. <br>
-                 Αμέσως μετά το πρόγραμμα περιήγησης θα είναι έτοιμο προς χρήση. <br> 
+                  Wait for the appropriate actions to be taken <br>
+                  for enable anti-forensics tool, Protector Browser  <br>
+                  The duration is from 20 to 30 seconds. <br>
+                  Immediately after the browser will be ready for use. <br> 
             </font>
                  </div>
 
              <div align=center style=background:blue> 
               <font color=white size=5> 
-                 Πλήρης κάλυψη ηλεκτρονικών αποτυπωμάτων. <br>
-                 απο το 2ο έως το 7ο επίπεδο του OSI. <br>
-                 Αλλαγή Φυσικής διευθυνσιοδότησης, αλλαγή τοπικής διευθύνσης (IP), <br>
-                 σύνδεση σε Διακομιστή μεσολάβησης, σύνδεση σε νευρωνικά δίκτυα, <br>
-                 έλεγχος νευρωνικών δικτύων και λειτουργία φυλλομετρητή. <br>
+                  Full coverage of digital fingerprints. <br>
+                  from the 2nd to the 7th level of OSI. <br>
+                  Change of physical address, change of local address (IP), <br>
+                  connection to a Proxy server, connection to neural networks, <br>
+                  neural networks control and browser function. <br> 
             </div>""")
 
     # SplashScreen - Indicates that the window is a splash screen. This is the default type for .QSplashScreen
