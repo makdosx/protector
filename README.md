@@ -20,6 +20,15 @@ bash <(curl -s https://raw.githubusercontent.com/makdosx/protector/main/install.
 For go to any address press enter.  </br>
 For open new tab press double left click. </h4>  </br></br></br>
 
+ <p align="center">
+<img src="anns0.png">  
+</p> </br>
+
+
+ <p align="center">
+<img src="anns4.png">  
+</p> </br>
+
 
 <h3> Artificial neural networks (ANNs) </h3> 
 <h4> The neural networks (NNs), are computing systems inspired by the biological neural networks 
